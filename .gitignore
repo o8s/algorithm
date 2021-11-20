@@ -1,0 +1,20 @@
+# system
+.DS_Store
+Thumbs.db
+
+# log file
+*.log
+
+# dependencies
+node_modules/
+
+# build
+dist
+
+# misc
+.vscode
+.idea
+
+# lock file
+package-lock.json
+yarn.lock
